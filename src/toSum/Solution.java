@@ -56,7 +56,6 @@ public class Solution {
 			listNode = listNode.next;
 		}
 	}
-
 }
   class ListNode {
 	      int val;
